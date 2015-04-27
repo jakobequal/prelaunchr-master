@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## NOTE
 
 We unfortunately don't have time to support issues, fixes, or pull requests for this repository. This code was posted as is, in hopes it would be useful to others in the community. 
@@ -42,3 +43,7 @@ the MIT license. Any branded assets are included only to illustrate and inspire.
 
 Please change the artwork to use your own brand! Harry's does not give
 you permission to use our brand or trademarks in your own marketing.
+=======
+# prelaunchr-master
+small fixing
+>>>>>>> 5fce19199e54d2b5fe29bd76456ccd0d96dcfef3
